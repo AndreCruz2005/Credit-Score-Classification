@@ -1,6 +1,6 @@
 # Projeto Classificação de Score de Crédito
 
-Este repositório contém um projeto de classificação de score de crédito utilizando técnicas de Machine Learning. O objetivo é prever a categoria de score de crédito dos clientes com base em diversas características financeiras e demográficas.
+Este repositório contém um projeto de classificação de score de crédito para a disciplina Aprendizado de Máquina e Ciência de Dados. O objetivo é prever a categoria de score de crédito dos clientes com base em diversas características financeiras e demográficas.
 
 ## Como executar o Projeto
 
