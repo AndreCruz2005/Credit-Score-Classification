@@ -7,7 +7,7 @@ Este repositório contém um projeto de classificação de score de crédito par
 1. Clone este repositório para sua máquina local.
 
     ```bash
-    git clone
+    git clone https://github.com/AndreCruz2005/Credit-Score-Classification.git
     ```
 
 2. Navegue até o diretório do projeto.
